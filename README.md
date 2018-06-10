@@ -16,6 +16,6 @@ Hardware
 
 References
 
-https://github.com/mchwalisz/thingspeak/blob/master/examples/log.py
-https://www.dexterindustries.com/GrovePi/get-started-with-the-grovepi/
-https://www.dexterindustries.com/projects/sensors_to_twitter/
+https://github.com/mchwalisz/thingspeak/blob/master/examples/log.py \n
+https://www.dexterindustries.com/GrovePi/get-started-with-the-grovepi/ \n
+https://www.dexterindustries.com/projects/sensors_to_twitter/ \n
